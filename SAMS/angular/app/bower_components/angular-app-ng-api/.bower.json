@@ -1,0 +1,19 @@
+{
+  "name": "angular-app-ng-api",
+  "version": "1.0.0",
+  "main": "dist/angular-app-ng-api.min.js",
+  "ignore": [
+    "./gulpfile.js",
+    "./package.json",
+    "./src/**/*.*",
+    "./.gitignore",
+    "./README.md"
+  ],
+  "dependencies": {
+    "angular": "1.3.x"
+  },
+  "_source": "C:\\Purnima\\Git_Workspace\\sams_webapp\\WebContent\\angular-app-ng-api",
+  "_target": "*",
+  "_originalSource": "C:\\Purnima\\Git_Workspace\\sams_webapp\\WebContent\\angular-app-ng-api",
+  "_direct": true
+}

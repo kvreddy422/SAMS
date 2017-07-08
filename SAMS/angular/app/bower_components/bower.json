@@ -1,0 +1,20 @@
+{
+  "name": "SAMSUI",
+  "version": "1.0.0",
+  "description": "SAMS UI",
+  "main": "\"https://github.com/angular/angular-seed\"",
+  "license": "MIT",
+  "homepage": "\"https://github.com/angular/angular-seed\",",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "arrowkeys": "~0.1.2",
+    "angular-base64": "~2.0.5"
+  }
+}

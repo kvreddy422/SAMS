@@ -1,0 +1,35 @@
+{
+  "name": "material-date-picker",
+  "dependencies": {
+    "moment": "~2.9.0"
+  },
+  "appPath": "app",
+  "authors": [
+    "Mo Binni <mobinni@hotmail.com>"
+  ],
+  "description": "A material date picker",
+  "main": [
+    "build/mbdatepicker.js",
+    "build/styles/mbdatepicker.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "example/**",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "homepage": "https://github.com/mobinni/material-date-picker",
+  "_release": "b8023d57bc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b8023d57bc2a125dffa6536d57ae162929eed4ea"
+  },
+  "_source": "git://github.com/mobinni/material-date-picker.git",
+  "_target": "*",
+  "_originalSource": "material-date-picker",
+  "_direct": true
+}
